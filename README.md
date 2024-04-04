@@ -6,6 +6,5 @@ An interactive map in which the user is able to log in the workout details, incl
 
 ## Video Walkthrough
 <a href="https://drive.google.com/file/d/1kemMCtYzLoBKWW1FT6I4b4U9VtRBhx1A/view?usp=sharing"> 
-   <img width="365" src="![image](https://github.com/KhanhHa26/Mapty/assets/84813907/469016f9-3cbf-4705-9aac-ad508e181651)
-">
+   <img width="365" src="https://github.com/KhanhHa26/Mapty/assets/84813907/469016f9-3cbf-4705-9aac-ad508e181651">
 </a>
